@@ -1,6 +1,6 @@
 {
-	"name": "@quillforms/blocklib-date-block",
-	"version": "3.0.6",
+	"name": "@superduckdev/blocklib-date-block",
+	"version": "3.0.7",
 	"description": "Date block for quillforms",
 	"author": "Mohamed Magdy <md.magdy.sa@gmail.com> (https://github.com/mdmag)",
 	"license": "GPL-2.0-or-later",
@@ -23,8 +23,8 @@
 	"sideEffects": false,
 	"dependencies": {
 		"@babel/runtime": "^7.16.0",
-		"@quillforms/admin-components": "file:../admin-components",
-		"@quillforms/renderer-core": "file:../renderer-core",
+		"@superduckdev/admin-components": "file:../admin-components",
+		"@superduckdev/renderer-core": "file:../renderer-core",
 		"@wordpress/data": "^8.1.0",
 		"classnames": "^2.3.1",
 		"dayjs": "^1.10.5",

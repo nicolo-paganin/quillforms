@@ -1,6 +1,6 @@
 {
-	"name": "@quillforms/form-integrations",
-	"version": "2.3.7",
+	"name": "@superduckdev/form-integrations",
+	"version": "2.3.8",
 	"description": "Form integrations",
 	"author": "Mohamed Magdy <md.magdy.sa@gmail.com> (https://github.com/mdmag)",
 	"license": "GPL-2.0-or-later",
@@ -22,7 +22,7 @@
 	"module": "build-module/index.js",
 	"dependencies": {
 		"@babel/runtime": "^7.9.2",
-		"@quillforms/navigation": "file:../navigation",
+		"@superduckdev/navigation": "file:../navigation",
 		"@wordpress/api-fetch": "^6.11.0",
 		"@wordpress/components": "^19.16.0",
 		"@wordpress/data": "^6.14.0",

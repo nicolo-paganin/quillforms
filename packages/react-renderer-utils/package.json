@@ -1,6 +1,6 @@
 {
-	"name": "@quillforms/react-renderer-utils",
-	"version": "3.0.6",
+	"name": "@superduckdev/react-renderer-utils",
+	"version": "3.0.7",
 	"description": "> TODO: description",
 	"author": "Mohamed Magdy <md.magdy.sa@gmail.com>",
 	"keywords": [
@@ -21,17 +21,17 @@
 	"module": "build-module/index.js",
 	"sideEffects": false,
 	"dependencies": {
-		"@quillforms/blocklib-date-block": "file:../blocklib-date-block",
-		"@quillforms/blocklib-dropdown-block": "file:../blocklib-dropdown-block",
-		"@quillforms/blocklib-email-block": "file:../blocklib-email-block",
-		"@quillforms/blocklib-long-text-block": "file:../blocklib-long-text-block",
-		"@quillforms/blocklib-multiple-choice-block": "file:../blocklib-multiple-choice-block",
-		"@quillforms/blocklib-number-block": "file:../blocklib-number-block",
-		"@quillforms/blocklib-short-text-block": "file:../blocklib-short-text-block",
-		"@quillforms/blocklib-statement-block": "file:../blocklib-statement-block",
-		"@quillforms/blocklib-website-block": "file:../blocklib-website-block",
-		"@quillforms/blocklib-welcome-screen-block": "file:../blocklib-welcome-screen-block",
-		"@quillforms/blocks": "file:../blocks"
+		"@superduckdev/blocklib-date-block": "file:../blocklib-date-block",
+		"@superduckdev/blocklib-dropdown-block": "file:../blocklib-dropdown-block",
+		"@superduckdev/blocklib-email-block": "file:../blocklib-email-block",
+		"@superduckdev/blocklib-long-text-block": "file:../blocklib-long-text-block",
+		"@superduckdev/blocklib-multiple-choice-block": "file:../blocklib-multiple-choice-block",
+		"@superduckdev/blocklib-number-block": "file:../blocklib-number-block",
+		"@superduckdev/blocklib-short-text-block": "file:../blocklib-short-text-block",
+		"@superduckdev/blocklib-statement-block": "file:../blocklib-statement-block",
+		"@superduckdev/blocklib-website-block": "file:../blocklib-website-block",
+		"@superduckdev/blocklib-welcome-screen-block": "file:../blocklib-welcome-screen-block",
+		"@superduckdev/blocks": "file:../blocks"
 	},
 	"peerDependencies": {
 		"react": "^16.8.5 || ^17.0.0 || ^18.0.0",
