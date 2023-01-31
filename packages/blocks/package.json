@@ -1,6 +1,6 @@
 {
 	"name": "@superduckdev/blocks",
-	"version": "4.0.0",
+	"version": "4.0.1",
 	"description": "Block api for Quill forms",
 	"author": "Mohamed Magdy <md.magdy.sa@gmail.com> (https://github.com/mdmag)",
 	"license": "GPL-2.0-or-later",
@@ -23,7 +23,7 @@
 	"module": "build-module/index.js",
 	"dependencies": {
 		"@babel/runtime": "^7.16.0",
-		"@superduckdev/utils": "^4.0.0",
+		"@superduckdev/utils": "^4.0.1",
 		"@wordpress/data": "^8.1.0",
 		"lodash": "^4.17.21"
 	},
